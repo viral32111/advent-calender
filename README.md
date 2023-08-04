@@ -1,6 +1,6 @@
 # Advent Calender
 
-This is a Christmas advent calender with music and messages for each day of the month that I made back in 2018.
+This is a Christmas advent calender with music and jokes for each day of the month that I made back in 2018.
 
 The [music](/Resources/last-christmas.wav) is [Last Christmas](https://en.wikipedia.org/wiki/Last_Christmas).
 
